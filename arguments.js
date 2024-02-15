@@ -1,8 +1,8 @@
 module.exports = [
- "0x4f31d557c157362f6931dc170056df08fee4b886",
-  "MEM1",
-  "M2C",
-  "https://google.com",
-  0,
+ "0xedD200fBaD2A63F7D619E0aC1a44dafE6897222b",
+  "ASD",
+  "DCM",
+  "asd",
+  20000000000,
   false,
 ];
